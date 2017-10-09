@@ -1,7 +1,7 @@
 <?php
 
 require __DIR__.'/vendor/autoload.php';
-use Spiru\Html2Pdf\Html2pdf;
+use Spipu\Html2Pdf\Html2pdf;
 
 if(isset($_POST['crear'])){
     //Recoger el contenido del otro fichero
